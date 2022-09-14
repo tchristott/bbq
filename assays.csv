@@ -1,0 +1,8 @@
+,Shorthand,FullName,Pinned,Plate,Endpoint,Enzymatic,Continuous,ProteinProteinInteraction
+0,EPDR,Endpoint Dose Response,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+1,EPSD,Endpoint Single Dose,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+2,CBCS,Cell Based Compound Screen,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+3,DSF,Differential Scanning Fluorimetry,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+4,NDSF,nanoDSF,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+5,RATE,Enzymatic Reaction (Initial Rate),FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+6,DRTC,Dose Response Time Course,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
